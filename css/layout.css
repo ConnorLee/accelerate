@@ -1,4 +1,16 @@
 /*
+* Theme Name: Kulebe
+* File name: layout.css
+* Theme URL: Accelerate Foundation.com/kulebe
+* Description: Kulebe - Multipurpose Nonprofit Theme
+* Author: Accelerate Foundation
+* Author URL: http://themeforest.net/user/Accelerate Foundation
+* Support: https://sinanisik.ticksy.com/
+* Version: 1.0
+*/
+
+
+/*------------------------------------------------------
 
 CSS TABLE OF CONTENTS: 
 
@@ -399,10 +411,11 @@ a.slider-link:hover {
 Title section
 =============================================== */
 .title-section {
-	height: 100%;
-	text-align: center;
-	margin-bottom: -10px;
-	position: relative;
+height: 24%;
+    text-align: center;
+    margin-top: -90px;
+    margin-bottom: -10px;
+    position: relative;
 
 }
 
